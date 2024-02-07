@@ -1,0 +1,11 @@
+Attributes,,,data type,range,can be removed?id?,Needs conversion?,Can be derived from other?,categorical?number of categories?
+,,,,,,,,
+Pregnancies,,,num,0-17,no,no,no,
+Glucose,,,num,0-199,no,no,no,
+BloodPressure,,,num,0-122,no,no,no,
+SkinThickness,,,num,0-99,no,no,no,
+Insulin,,,num,0-846,no,no,no,
+BMI,,,num/cont,0-67.1,no,no,no,
+Cancer_Markers,,,num/con,0.078-2.42,no,no,no,
+Age,,,num,21-81,no,no,no,
+Outcome,,,cat,0-1,no,no,no,2

@@ -1,0 +1,12 @@
+https://nasirml.wordpress.com/2017/11/19/single-layer-perceptron-in-tensorflow/ 
+https://analyticsindiamag.com/perceptron-is-the-only-neural-network-without-any-hidden-layer/
+https://www.quantstart.com/articles/training-the-perceptron-with-scikit-learn-and-tensorflow/
+https://machinelearningmastery.com/implement-perceptron-algorithm-scratch-python/
+https://www.pyimagesearch.com/2021/05/06/implementing-the-perceptron-neural-network-with-python/
+https://towardsdatascience.com/perceptron-explanation-implementation-and-a-visual-example-3c8e76b4e2d1
+https://medium.com/@nutanbhogendrasharma/tensorflow-deep-learning-model-with-iris-dataset-8ec344c49f91
+https://www.bogotobogo.com/python/scikit-learn/Perceptron_Model_with_Iris_DataSet.php
+https://www.tensorflow.org/tutorials/customization/custom_training_walkthrough
+https://www.kaggle.com/louisong97/neural-network-approach-to-iris-dataset
+https://www.kaggle.com/richbrosius/iris-classification-using-tensorflow	
+https://www.bogotobogo.com/python/scikit-learn/Perceptron_Model_with_Iris_DataSet.php
